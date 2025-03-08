@@ -1,4 +1,4 @@
-# Meryl-s-Restaurant-aria
+# Meryl's-Restaurant-aria
 ## Overview
 
 This restaurant pick up system using multithreading in Python. It efficiently manages order preparation and courier dispatch while ensuring thread safety for shared resources.
