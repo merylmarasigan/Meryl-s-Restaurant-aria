@@ -1,0 +1,84 @@
+
+Order a8cfcb76-7f24-4420-a5ba-d46dd77bdffd (Banana Split) received! (2024-10-22 11:02:53.004969)
+The courier for Order a8cfcb76-7f24-4420-a5ba-d46dd77bdffd has been dispatched (2024-10-22 11:02:53.005286). They will arrive in 15 seconds.
+Order 58e9b5fe-3fde-4a27-8e98-682e58a4a65d (McFlury) received! (2024-10-22 11:02:53.005715)
+The courier for Order 58e9b5fe-3fde-4a27-8e98-682e58a4a65d has been dispatched (2024-10-22 11:02:53.005873). They will arrive in 13 seconds.
+Order 2ec069e3-576f-48eb-869f-74a540ef840c (Acai Bowl) received! (2024-10-22 11:02:54.011468)
+The courier for Order 2ec069e3-576f-48eb-869f-74a540ef840c has been dispatched (2024-10-22 11:02:54.011987). They will arrive in 12 seconds.
+Order 690b85f7-8c7d-4337-bd02-04e04454c826 (Yogurt) received! (2024-10-22 11:02:54.016753)
+The courier for Order 690b85f7-8c7d-4337-bd02-04e04454c826 has been dispatched (2024-10-22 11:02:54.017095). They will arrive in 9 seconds.
+Order 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a (Chocolate Gelato) received! (2024-10-22 11:02:55.018408)
+The courier for Order 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a has been dispatched (2024-10-22 11:02:55.018869). They will arrive in 13 seconds.
+Order c18e1242-0856-4203-a98c-7066ead3bd6b (Cobb Salad) received! (2024-10-22 11:02:55.021077)
+The courier for Order c18e1242-0856-4203-a98c-7066ead3bd6b has been dispatched (2024-10-22 11:02:55.021349). They will arrive in 5 seconds.
+Order 66a2611c-9a93-4ccd-bb85-98f423247bf9 (Cottage Cheese) received! (2024-10-22 11:02:56.025110)
+The courier for Order 66a2611c-9a93-4ccd-bb85-98f423247bf9 has been dispatched (2024-10-22 11:02:56.025574). They will arrive in 9 seconds.
+Order 4cc9d503-4e0e-42a3-b200-87c785468df9 (Coke) received! (2024-10-22 11:02:56.028007)
+The courier for Order 4cc9d503-4e0e-42a3-b200-87c785468df9 has been dispatched (2024-10-22 11:02:56.028359). They will arrive in 14 seconds.
+Order a8cfcb76-7f24-4420-a5ba-d46dd77bdffd (Banana Split) is ready for pick up! (2024-10-22 11:02:57.010404)
+Order 0a6537d7-9568-400e-9857-7aceb4e7347c (Snow Cone) received! (2024-10-22 11:02:57.029230)
+The courier for Order 0a6537d7-9568-400e-9857-7aceb4e7347c has been dispatched (2024-10-22 11:02:57.029590). They will arrive in 6 seconds.
+Order 74e0893f-8544-4298-b507-9cf5ab847d83 (Pad See Ew) received! (2024-10-22 11:02:57.030107)
+The courier for Order 74e0893f-8544-4298-b507-9cf5ab847d83 has been dispatched (2024-10-22 11:02:57.030317). They will arrive in 13 seconds.
+Order 690b85f7-8c7d-4337-bd02-04e04454c826 (Yogurt) is ready for pick up! (2024-10-22 11:03:00.018754)
+The courier for Order c18e1242-0856-4203-a98c-7066ead3bd6b has arrived at the restaurant (2024-10-22 11:03:00.025226).
+Order 74e0893f-8544-4298-b507-9cf5ab847d83 (Pad See Ew) is ready for pick up! (2024-10-22 11:03:00.040538)
+Order 0a6537d7-9568-400e-9857-7aceb4e7347c (Snow Cone) is ready for pick up! (2024-10-22 11:03:01.038211)
+The courier for Order 690b85f7-8c7d-4337-bd02-04e04454c826 has arrived at the restaurant (2024-10-22 11:03:03.024372).
+Order c18e1242-0856-4203-a98c-7066ead3bd6b (Cobb Salad) is ready for pick up! (2024-10-22 11:03:03.024438)
+
+******* Order c18e1242-0856-4203-a98c-7066ead3bd6b (Cobb Salad) has been picked up! (2024-10-22 11:03:03.024489) *******
+Courier wait time: 2999.26305ms
+Food wait time: 0.05102ms
+
+******* Order 690b85f7-8c7d-4337-bd02-04e04454c826 (Yogurt) has been picked up! (2024-10-22 11:03:03.024889) *******
+Courier wait time: 0.51713ms
+Food wait time: 3006.13499ms
+The courier for Order 0a6537d7-9568-400e-9857-7aceb4e7347c has arrived at the restaurant (2024-10-22 11:03:03.033077).
+
+******* Order 0a6537d7-9568-400e-9857-7aceb4e7347c (Snow Cone) has been picked up! (2024-10-22 11:03:03.033483) *******
+Courier wait time: 0.40603ms
+Food wait time: 1995.27192ms
+Order 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a (Chocolate Gelato) is ready for pick up! (2024-10-22 11:03:04.020843)
+The courier for Order 66a2611c-9a93-4ccd-bb85-98f423247bf9 has arrived at the restaurant (2024-10-22 11:03:05.031017).
+The courier for Order 58e9b5fe-3fde-4a27-8e98-682e58a4a65d has arrived at the restaurant (2024-10-22 11:03:06.013630).
+The courier for Order 2ec069e3-576f-48eb-869f-74a540ef840c has arrived at the restaurant (2024-10-22 11:03:06.025519).
+Order 2ec069e3-576f-48eb-869f-74a540ef840c (Acai Bowl) is ready for pick up! (2024-10-22 11:03:06.025574)
+
+******* Order 2ec069e3-576f-48eb-869f-74a540ef840c (Acai Bowl) has been picked up! (2024-10-22 11:03:06.129887) *******
+Courier wait time: 104.36773ms
+Food wait time: 104.31290ms
+Order 58e9b5fe-3fde-4a27-8e98-682e58a4a65d (McFlury) is ready for pick up! (2024-10-22 11:03:07.012161)
+
+******* Order 58e9b5fe-3fde-4a27-8e98-682e58a4a65d (McFlury) has been picked up! (2024-10-22 11:03:07.018482) *******
+Courier wait time: 1004.85206ms
+Food wait time: 6.32095ms
+Order 66a2611c-9a93-4ccd-bb85-98f423247bf9 (Cottage Cheese) is ready for pick up! (2024-10-22 11:03:07.036203)
+
+******* Order 66a2611c-9a93-4ccd-bb85-98f423247bf9 (Cottage Cheese) has been picked up! (2024-10-22 11:03:07.036309) *******
+Courier wait time: 2005.29194ms
+Food wait time: 0.10610ms
+The courier for Order a8cfcb76-7f24-4420-a5ba-d46dd77bdffd has arrived at the restaurant (2024-10-22 11:03:08.005841).
+
+******* Order a8cfcb76-7f24-4420-a5ba-d46dd77bdffd (Banana Split) has been picked up! (2024-10-22 11:03:08.006321) *******
+Courier wait time: 0.48018ms
+Food wait time: 10995.91684ms
+The courier for Order 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a has arrived at the restaurant (2024-10-22 11:03:08.020832).
+
+******* Order 972aa5b8-5d83-4d5e-8cf3-8a1a1437b18a (Chocolate Gelato) has been picked up! (2024-10-22 11:03:08.021152) *******
+Courier wait time: 0.31996ms
+Food wait time: 4000.30899ms
+Order 4cc9d503-4e0e-42a3-b200-87c785468df9 (Coke) is ready for pick up! (2024-10-22 11:03:09.031605)
+The courier for Order 74e0893f-8544-4298-b507-9cf5ab847d83 has arrived at the restaurant (2024-10-22 11:03:10.031692).
+The courier for Order 4cc9d503-4e0e-42a3-b200-87c785468df9 has arrived at the restaurant (2024-10-22 11:03:10.031825).
+
+******* Order 74e0893f-8544-4298-b507-9cf5ab847d83 (Pad See Ew) has been picked up! (2024-10-22 11:03:10.032230) *******
+Courier wait time: 0.53787ms
+Food wait time: 9991.69183ms
+
+******* Order 4cc9d503-4e0e-42a3-b200-87c785468df9 (Coke) has been picked up! (2024-10-22 11:03:10.034168) *******
+Courier wait time: 2.34318ms
+Food wait time: 1002.56300ms
+----------------------------------------------------------------------------------------------------------------------------
+Average Courier Wait Time: 611.837911605835 ms
+Average Order Wait Time: 3110.2678537368774 ms

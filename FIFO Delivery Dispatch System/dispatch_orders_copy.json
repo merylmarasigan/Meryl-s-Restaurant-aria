@@ -1,0 +1,27 @@
+[
+    {
+        "id": "7a5ea4ed-e378-4354-8ab3-a09cf563f621", 
+        "name": "Chunky Monkey", 
+        "prepTime": 13
+    }, 
+    {
+        "id": "60fbe431-7f7f-46c5-8ecf-6a26ae898685", 
+        "name": "Beef Stew", 
+        "prepTime": 8
+    }, 
+    {
+        "id": "2e7f4153-92cb-43e2-96f4-d77e2f25422b", 
+        "name": "Cheese", 
+        "prepTime": 12
+    }, 
+    {
+        "id": "d4ead98f-a158-429c-9c0d-28ab0fa830a6", 
+        "name": "Spinach Omelet", 
+        "prepTime": 3
+    }, 
+    {
+        "id": "e868e485-c759-411b-b439-ca7086326bf6", 
+        "name": "Beef Hash", 
+        "prepTime": 8
+    }
+]

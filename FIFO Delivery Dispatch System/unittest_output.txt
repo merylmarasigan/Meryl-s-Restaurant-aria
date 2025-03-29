@@ -1,0 +1,74 @@
+
+preptime for Chunky Monkey: 13
+Order 7a5ea4ed-e378-4354-8ab3-a09cf563f621 (Chunky Monkey) received! (2024-10-22 20:42:12.950753)
+
+The courier has been dispatched (2024-10-22 20:42:12.951183). They will arrive in 12 seconds
+
+preptime for Beef Stew: 8
+Order 60fbe431-7f7f-46c5-8ecf-6a26ae898685 (Beef Stew) received! (2024-10-22 20:42:12.951497)
+
+The courier has been dispatched (2024-10-22 20:42:12.951803). They will arrive in 4 seconds
+
+preptime for Cheese: 12
+Order 2e7f4153-92cb-43e2-96f4-d77e2f25422b (Cheese) received! (2024-10-22 20:42:13.953220)
+
+The courier has been dispatched (2024-10-22 20:42:13.955025). They will arrive in 8 seconds
+
+preptime for Spinach Omelet: 3
+Order d4ead98f-a158-429c-9c0d-28ab0fa830a6 (Spinach Omelet) received! (2024-10-22 20:42:13.955460)
+
+The courier has been dispatched (2024-10-22 20:42:13.955734). They will arrive in 9 seconds
+
+preptime for Beef Hash: 8
+Order e868e485-c759-411b-b439-ca7086326bf6 (Beef Hash) received! (2024-10-22 20:42:14.961425)
+
+The courier has been dispatched (2024-10-22 20:42:14.962075). They will arrive in 3 seconds
+
+The courier for has arrived at the restaurant (2024-10-22 20:42:16.953210)
+
+Order 7a5ea4ed-e378-4354-8ab3-a09cf563f621 (Chunky Monkey) is ready for pick up! (2024-10-22 20:42:16.959673)
+
+
+******* Order 7a5ea4ed-e378-4354-8ab3-a09cf563f621 (Chunky Monkey) has been picked up! (2024-10-22 20:42:16.959810) *******
+Courier wait time: 6.59990ms
+Food wait time: 0.13685ms
+
+The courier for has arrived at the restaurant (2024-10-22 20:42:17.969166)
+
+Order 60fbe431-7f7f-46c5-8ecf-6a26ae898685 (Beef Stew) is ready for pick up! (2024-10-22 20:42:20.952939)
+
+
+******* Order 60fbe431-7f7f-46c5-8ecf-6a26ae898685 (Beef Stew) has been picked up! (2024-10-22 20:42:20.953034) *******
+Courier wait time: 2983.86788ms
+Food wait time: 0.09489ms
+
+The courier for has arrived at the restaurant (2024-10-22 20:42:21.959920)
+
+The courier for has arrived at the restaurant (2024-10-22 20:42:22.955807)
+
+Order 2e7f4153-92cb-43e2-96f4-d77e2f25422b (Cheese) is ready for pick up! (2024-10-22 20:42:22.966306)
+
+
+******* Order 2e7f4153-92cb-43e2-96f4-d77e2f25422b (Cheese) has been picked up! (2024-10-22 20:42:22.966394) *******
+Courier wait time: 1006.47402ms
+Food wait time: 0.08821ms
+
+The courier for has arrived at the restaurant (2024-10-22 20:42:24.953846)
+
+Order d4ead98f-a158-429c-9c0d-28ab0fa830a6 (Spinach Omelet) is ready for pick up! (2024-10-22 20:42:25.955652)
+
+Order e868e485-c759-411b-b439-ca7086326bf6 (Beef Hash) is ready for pick up! (2024-10-22 20:42:25.955779)
+
+
+******* Order d4ead98f-a158-429c-9c0d-28ab0fa830a6 (Spinach Omelet) has been picked up! (2024-10-22 20:42:25.955834) *******
+Courier wait time: 1001.98817ms
+Food wait time: 0.18215ms
+
+
+******* Order e868e485-c759-411b-b439-ca7086326bf6 (Beef Hash) has been picked up! (2024-10-22 20:42:25.955925) *******
+Courier wait time: 3000.11802ms
+Food wait time: 0.14591ms
+
+----------------------------------------------------------------------------------------------------------------------------
+Average Courier Wait Time: 1599.8095989227295 ms
+Average Order Wait Time: 0.12960433959960938 ms
